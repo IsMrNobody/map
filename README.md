@@ -1,5 +1,5 @@
 # map
-Mapa  localización 
+Mapa y localización en tiempo real de cada usuario activo en la aplicaciòn
 
 # install dependencies
 $ npm install
